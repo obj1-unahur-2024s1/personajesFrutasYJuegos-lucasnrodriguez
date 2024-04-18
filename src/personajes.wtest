@@ -1,0 +1,8 @@
+import personajes.*
+import frutas.* 
+
+test "esta feliz" {
+	
+	assert.that(martin.estaFeliz())
+
+}
